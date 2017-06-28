@@ -10,11 +10,11 @@
 		2BF0FE061F034DA400CE98CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE051F034DA400CE98CB /* AppDelegate.swift */; };
 		2BF0FE0D1F034DA400CE98CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2BF0FE0C1F034DA400CE98CB /* Assets.xcassets */; };
 		2BF0FE101F034DA400CE98CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BF0FE0E1F034DA400CE98CB /* LaunchScreen.storyboard */; };
-		2BF0FE1F1F034DD700CE98CB /* CZNavigationDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE1A1F034DD700CE98CB /* CZNavigationDrawerController.m */; };
-		2BF0FE201F034DD700CE98CB /* CZOverlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE1C1F034DD700CE98CB /* CZOverlayView.m */; };
-		2BF0FE211F034DD700CE98CB /* UIViewController+Container.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE1E1F034DD700CE98CB /* UIViewController+Container.m */; };
 		2BF0FE231F034E3200CE98CB /* DrawerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE221F034E3200CE98CB /* DrawerViewController.swift */; };
 		2BF0FE251F034E3D00CE98CB /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE241F034E3D00CE98CB /* MainViewController.swift */; };
+		2BF0FE391F037C5000CE98CB /* CZNavigationDrawerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE331F037C5000CE98CB /* CZNavigationDrawerController.m */; };
+		2BF0FE3A1F037C5000CE98CB /* CZOverlayView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE351F037C5000CE98CB /* CZOverlayView.m */; };
+		2BF0FE3B1F037C5000CE98CB /* UIViewController+Container.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BF0FE381F037C5000CE98CB /* UIViewController+Container.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,15 +23,16 @@
 		2BF0FE0C1F034DA400CE98CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2BF0FE0F1F034DA400CE98CB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2BF0FE111F034DA400CE98CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2BF0FE181F034DD700CE98CB /* NavigationDrawerDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NavigationDrawerDemo-Bridging-Header.h"; sourceTree = "<group>"; };
-		2BF0FE191F034DD700CE98CB /* CZNavigationDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZNavigationDrawerController.h; sourceTree = "<group>"; };
-		2BF0FE1A1F034DD700CE98CB /* CZNavigationDrawerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZNavigationDrawerController.m; sourceTree = "<group>"; };
-		2BF0FE1B1F034DD700CE98CB /* CZOverlayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZOverlayView.h; sourceTree = "<group>"; };
-		2BF0FE1C1F034DD700CE98CB /* CZOverlayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZOverlayView.m; sourceTree = "<group>"; };
-		2BF0FE1D1F034DD700CE98CB /* UIViewController+Container.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Container.h"; sourceTree = "<group>"; };
-		2BF0FE1E1F034DD700CE98CB /* UIViewController+Container.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Container.m"; sourceTree = "<group>"; };
 		2BF0FE221F034E3200CE98CB /* DrawerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawerViewController.swift; sourceTree = "<group>"; };
 		2BF0FE241F034E3D00CE98CB /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		2BF0FE321F037C5000CE98CB /* CZNavigationDrawerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZNavigationDrawerController.h; sourceTree = "<group>"; };
+		2BF0FE331F037C5000CE98CB /* CZNavigationDrawerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZNavigationDrawerController.m; sourceTree = "<group>"; };
+		2BF0FE341F037C5000CE98CB /* CZOverlayView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CZOverlayView.h; sourceTree = "<group>"; };
+		2BF0FE351F037C5000CE98CB /* CZOverlayView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CZOverlayView.m; sourceTree = "<group>"; };
+		2BF0FE361F037C5000CE98CB /* NavigationDrawerDemo-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NavigationDrawerDemo-Bridging-Header.h"; sourceTree = "<group>"; };
+		2BF0FE371F037C5000CE98CB /* UIViewController+Container.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Container.h"; sourceTree = "<group>"; };
+		2BF0FE381F037C5000CE98CB /* UIViewController+Container.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Container.m"; sourceTree = "<group>"; };
+		2BF0FE3C1F037CD400CE98CB /* NavigationDrawerDemo-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NavigationDrawerDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +65,7 @@
 		2BF0FE041F034DA400CE98CB /* NavigationDrawerDemo */ = {
 			isa = PBXGroup;
 			children = (
-				2BF0FE171F034DC500CE98CB /* NavigationDrawer */,
+				2BF0FE311F037C5000CE98CB /* NavigationDrawer */,
 				2BF0FE051F034DA400CE98CB /* AppDelegate.swift */,
 				2BF0FE221F034E3200CE98CB /* DrawerViewController.swift */,
 				2BF0FE241F034E3D00CE98CB /* MainViewController.swift */,
@@ -75,19 +76,20 @@
 			path = NavigationDrawerDemo;
 			sourceTree = "<group>";
 		};
-		2BF0FE171F034DC500CE98CB /* NavigationDrawer */ = {
+		2BF0FE311F037C5000CE98CB /* NavigationDrawer */ = {
 			isa = PBXGroup;
 			children = (
-				2BF0FE191F034DD700CE98CB /* CZNavigationDrawerController.h */,
-				2BF0FE1A1F034DD700CE98CB /* CZNavigationDrawerController.m */,
-				2BF0FE1B1F034DD700CE98CB /* CZOverlayView.h */,
-				2BF0FE1C1F034DD700CE98CB /* CZOverlayView.m */,
-				2BF0FE1D1F034DD700CE98CB /* UIViewController+Container.h */,
-				2BF0FE1E1F034DD700CE98CB /* UIViewController+Container.m */,
-				2BF0FE181F034DD700CE98CB /* NavigationDrawerDemo-Bridging-Header.h */,
+				2BF0FE321F037C5000CE98CB /* CZNavigationDrawerController.h */,
+				2BF0FE331F037C5000CE98CB /* CZNavigationDrawerController.m */,
+				2BF0FE341F037C5000CE98CB /* CZOverlayView.h */,
+				2BF0FE351F037C5000CE98CB /* CZOverlayView.m */,
+				2BF0FE361F037C5000CE98CB /* NavigationDrawerDemo-Bridging-Header.h */,
+				2BF0FE371F037C5000CE98CB /* UIViewController+Container.h */,
+				2BF0FE381F037C5000CE98CB /* UIViewController+Container.m */,
+				2BF0FE3C1F037CD400CE98CB /* NavigationDrawerDemo-Bridging-Header.h */,
 			);
 			path = NavigationDrawer;
-			sourceTree = "<group>";
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -161,12 +163,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BF0FE3A1F037C5000CE98CB /* CZOverlayView.m in Sources */,
 				2BF0FE251F034E3D00CE98CB /* MainViewController.swift in Sources */,
-				2BF0FE201F034DD700CE98CB /* CZOverlayView.m in Sources */,
-				2BF0FE1F1F034DD700CE98CB /* CZNavigationDrawerController.m in Sources */,
 				2BF0FE061F034DA400CE98CB /* AppDelegate.swift in Sources */,
-				2BF0FE211F034DD700CE98CB /* UIViewController+Container.m in Sources */,
 				2BF0FE231F034E3200CE98CB /* DrawerViewController.swift in Sources */,
+				2BF0FE3B1F037C5000CE98CB /* UIViewController+Container.m in Sources */,
+				2BF0FE391F037C5000CE98CB /* CZNavigationDrawerController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,7 +290,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenguang.NavigationDrawerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "NavigationDrawerDemo/NavigationDrawer/NavigationDrawerDemo-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "NavigationDrawer/NavigationDrawerDemo-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
@@ -303,7 +305,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenguang.NavigationDrawerDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "NavigationDrawerDemo/NavigationDrawer/NavigationDrawerDemo-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "NavigationDrawer/NavigationDrawerDemo-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -327,6 +329,7 @@
 				2BF0FE161F034DA400CE98CB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
